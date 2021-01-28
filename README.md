@@ -1,7 +1,7 @@
 ## Initial project creation
 ```
   1. npx create-react-app mnhmh2-client --template typescript && cd mnhmh2-client
-  2. npm install react-router-dom @types/react-router-dom
+  2. npm install react-router-dom @types/react-router-dom @material-ui/core
 ```
 
 Runs the app in the development mode.\
